@@ -1,0 +1,10 @@
+{
+  "snake": {
+    "initial_length": 1,
+    "initial_position": [30, 30],
+    "initial_speed": 5
+  },
+  "points_to_complete": 200,
+  "terrains": [],
+  "possible_bonus_types": ["add_points"]
+}

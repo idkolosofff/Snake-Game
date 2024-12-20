@@ -1,0 +1,71 @@
+{
+  "snake": {
+    "initial_length": 3,
+    "initial_position": [30, 30],
+    "initial_speed": 5
+  },
+  "points_to_complete": 100,
+  "terrains": [
+    {
+      "position": [100, 200],
+      "type": "wall"
+    },
+    {
+      "position": [700, 300],
+      "type": "wall"
+    },
+    {
+      "position": [400, 100],
+      "type": "wall"
+    },
+    {
+      "position": [200, 500],
+      "type": "wall"
+    },
+    {
+      "position": [400, 300],
+      "type": "mushroom"
+    },
+    {
+      "position": [50, 50],
+      "type": "holy_grail"
+    },
+    {
+      "position": [600, 500],
+      "type": "wall"
+    },
+    {
+      "position": [400, 400],
+      "type": "slow_down"
+    },
+    {
+      "position": [400, 250],
+      "type": "slow_down"
+    },
+    {
+      "position": [200, 200],
+      "type": "speed_up"
+    },
+    {
+      "position": [650, 400],
+      "type": "speed_up"
+    },
+    {
+      "position": [400, 500],
+      "type": "speed_up"
+    },
+    {
+      "position": [150, 300],
+      "type": "speed_up"
+    },
+    {
+      "position": [600, 200],
+      "type": "speed_up"
+    }
+  ],
+  "possible_bonus_types": ["add_points"]
+}
+
+
+
+

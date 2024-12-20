@@ -1,0 +1,41 @@
+{
+  "snake": {
+    "initial_length": 1,
+    "initial_position": [1, 1],
+    "initial_speed": 4
+  },
+  "points_to_complete": 150,
+  "terrains": [
+    { "position": [200, 400], "type": "slow_down" },
+    { "position": [10, 100], "type": "holy_grail" },
+    { "position": [600, 400], "type": "slow_down" },
+    { "position": [400, 150], "type": "speed_up" },
+    { "position": [100, 100], "type": "wall" },
+    { "position": [200, 100], "type": "wall" },
+    { "position": [300, 100], "type": "wall" },
+    { "position": [400, 100], "type": "wall" },
+    { "position": [500, 100], "type": "wall" },
+    { "position": [600, 100], "type": "wall" },
+    { "position": [700, 100], "type": "wall" },
+    { "position": [100, 200], "type": "wall" },
+    { "position": [300, 200], "type": "wall" },
+    { "position": [500, 200], "type": "wall" },
+    { "position": [700, 200], "type": "wall" },
+    { "position": [100, 300], "type": "wall" },
+    { "position": [300, 300], "type": "wall" },
+    { "position": [500, 300], "type": "wall" },
+    { "position": [700, 300], "type": "wall" },
+    { "position": [100, 400], "type": "wall" },
+    { "position": [300, 400], "type": "wall" },
+    { "position": [500, 400], "type": "wall" },
+    { "position": [700, 400], "type": "wall" },
+    { "position": [100, 500], "type": "wall" },
+    { "position": [200, 500], "type": "wall" },
+    { "position": [300, 500], "type": "wall" },
+    { "position": [400, 500], "type": "wall" },
+    { "position": [500, 500], "type": "wall" },
+    { "position": [600, 500], "type": "wall" },
+    { "position": [700, 500], "type": "wall" }
+  ],
+  "possible_bonus_types": ["add_points", "speed_up", "slow_down"]
+}
